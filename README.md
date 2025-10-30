@@ -1,7 +1,6 @@
-# Tauri + React + Typescript
+## Quibble dev setup
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+1. create .env.local and assign the VITE_PB_ENDPOINT=http://localhost:8090/
+2. create user
+3. go to PB and set user to verified.
+done
